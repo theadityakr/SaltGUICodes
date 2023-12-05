@@ -1,0 +1,472 @@
+[
+  {
+    "host": "WIN-FKLO940137D",
+    "domain": "",
+    "id": "H34.KunalSaltTest",
+    "ipv4": [
+      "38.107.67.126",
+      "127.0.0.1"
+    ],
+    "ipv6": [
+      "::1"
+    ],
+    "cpuarch": "AMD64",
+    "os": "Windows",
+    "mem_total": 4094,
+    "osversion": "10.0.20348",
+    "osrelease": "2022Server",
+    "windowsdomain": "WORKGROUP",
+    "num_cpus": 1,
+    "cpu_model": "Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz",
+    "username": "SYSTEM",
+    "Base_Machine": "H34",
+    "Windows_Updates": [
+      {
+        "Description": "Update",
+        "HotFixID": "KB5031993",
+        "InstalledOn": "@{value=12/03/2023 08:00:00; DateTime=Sunday, December 3, 2023 12:00:00 AM}"
+      },
+      {
+        "Description": "Security Update",
+        "HotFixID": "KB5032198",
+        "InstalledOn": "@{value=12/03/2023 08:00:00; DateTime=Sunday, December 3, 2023 12:00:00 AM}"
+      },
+      {
+        "Description": "Update",
+        "HotFixID": "KB5032310",
+        "InstalledOn": "@{value=12/03/2023 08:00:00; DateTime=Sunday, December 3, 2023 12:00:00 AM}"
+      }
+    ],
+    "Softwares": [
+      {
+        "DisplayName": "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664",
+        "DisplayVersion": "12.0.40664",
+        "InstallDate": {
+          "value": "/Date(1701417600000)/",
+          "DateTime": "Friday, December 1, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664",
+        "DisplayVersion": "12.0.40664",
+        "InstallDate": {
+          "value": "/Date(1701417600000)/",
+          "DateTime": "Friday, December 1, 2023 12:00:00 AM"
+        }
+      }
+    ]
+  },
+  {
+    "host": "testwindows187",
+    "domain": "",
+    "id": "38.107.67.187",
+    "ipv4": [
+      "38.107.67.187",
+      "127.0.0.1"
+    ],
+    "ipv6": [
+      "::1"
+    ],
+    "cpuarch": "AMD64",
+    "os": "Windows",
+    "mem_total": 6142,
+    "osversion": "10.0.20348",
+    "osrelease": "2022Server",
+    "windowsdomain": "WORKGROUP",
+    "num_cpus": 4,
+    "cpu_model": "Intel(R) Xeon(R) CPU E5-2643 0 @ 3.30GHz",
+    "username": "SYSTEM",
+    "Base_Machine": "H26",
+    "Windows_Updates": [
+      {
+        "Description": "Update",
+        "HotFixID": "KB5031993",
+        "InstalledOn": "@{value=11/30/2023 08:00:00; DateTime=Thursday, November 30, 2023 12:00:00 AM}"
+      },
+      {
+        "Description": "Security Update",
+        "HotFixID": "KB5032198",
+        "InstalledOn": "@{value=11/30/2023 08:00:00; DateTime=Thursday, November 30, 2023 12:00:00 AM}"
+      },
+      {
+        "Description": "Update",
+        "HotFixID": "KB5031590",
+        "InstalledOn": "@{value=11/08/2023 08:00:00; DateTime=Wednesday, November 8, 2023 12:00:00 AM}"
+      },
+      {
+        "Description": "Update",
+        "HotFixID": "KB5032310",
+        "InstalledOn": "@{value=11/30/2023 08:00:00; DateTime=Thursday, November 30, 2023 12:00:00 AM}"
+      }
+    ],
+    "Softwares": [
+      {
+        "DisplayName": "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664",
+        "DisplayVersion": "12.0.40664",
+        "InstallDate": {
+          "value": "/Date(1701072000000)/",
+          "DateTime": "Monday, November 27, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664",
+        "DisplayVersion": "12.0.40664",
+        "InstallDate": {
+          "value": "/Date(1701072000000)/",
+          "DateTime": "Monday, November 27, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "Puppet Agent (64-bit)",
+        "DisplayVersion": "6.0.3",
+        "InstallDate": {
+          "value": "/Date(1700985600000)/",
+          "DateTime": "Sunday, November 26, 2023 12:00:00 AM"
+        }
+      }
+    ]
+  },
+  {
+    "host": "anuragserver",
+    "domain": "",
+    "id": "anuragserver",
+    "ipv4": [
+      "38.107.67.232",
+      "127.0.0.1",
+      "192.168.157.1",
+      "192.168.168.1"
+    ],
+    "ipv6": [
+      "::1",
+      "fe80::ac45:4800:3e31:b4f3",
+      "fe80::c1f1:4b41:acd7:645f",
+      "fe80::f246:2790:c361:5939"
+    ],
+    "cpuarch": "AMD64",
+    "os": "Windows",
+    "mem_total": 8190,
+    "osversion": "10.0.20348",
+    "osrelease": "2022Server",
+    "windowsdomain": "WORKGROUP",
+    "num_cpus": 4,
+    "cpu_model": "Intel(R) Xeon(R) CPU E5-2643 0 @ 3.30GHz",
+    "username": "SYSTEM",
+    "Base_Machine": "H26",
+    "Windows_Updates": [
+      {
+        "Description": "Update",
+        "HotFixID": "KB5031993",
+        "InstalledOn": "@{value=11/26/2023 08:00:00; DateTime=Sunday, November 26, 2023 12:00:00 AM}"
+      },
+      {
+        "Description": "Security Update",
+        "HotFixID": "KB5032198",
+        "InstalledOn": "@{value=11/26/2023 08:00:00; DateTime=Sunday, November 26, 2023 12:00:00 AM}"
+      },
+      {
+        "Description": "Update",
+        "HotFixID": "KB5032310",
+        "InstalledOn": "@{value=11/22/2023 08:00:00; DateTime=Wednesday, November 22, 2023 12:00:00 AM}"
+      }
+    ],
+    "Softwares": [
+      {
+        "DisplayName": "Git",
+        "DisplayVersion": "2.42.0.2",
+        "InstallDate": {
+          "value": "/Date(1698908400000)/",
+          "DateTime": "Thursday, November 2, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "PyScripter 4.3.3 (x64)",
+        "DisplayVersion": "4.3.3",
+        "InstallDate": {
+          "value": "/Date(1698822000000)/",
+          "DateTime": "Wednesday, November 1, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.36.32532",
+        "DisplayVersion": "14.36.32532",
+        "InstallDate": {
+          "value": "/Date(1698735600000)/",
+          "DateTime": "Tuesday, October 31, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664",
+        "DisplayVersion": "12.0.40664",
+        "InstallDate": {
+          "value": "/Date(1699344000000)/",
+          "DateTime": "Tuesday, November 7, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "Node.js",
+        "DisplayVersion": "20.9.0",
+        "InstallDate": {
+          "value": "/Date(1699862400000)/",
+          "DateTime": "Monday, November 13, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "Python 3.12.0 Test Suite (64-bit)",
+        "DisplayVersion": "3.12.150.0",
+        "InstallDate": {
+          "value": "/Date(1699948800000)/",
+          "DateTime": "Tuesday, November 14, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "Python 3.12.0 Standard Library (64-bit)",
+        "DisplayVersion": "3.12.150.0",
+        "InstallDate": {
+          "value": "/Date(1699948800000)/",
+          "DateTime": "Tuesday, November 14, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "Python 3.12.0 Development Libraries (64-bit)",
+        "DisplayVersion": "3.12.150.0",
+        "InstallDate": {
+          "value": "/Date(1699948800000)/",
+          "DateTime": "Tuesday, November 14, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "Python 3.12.0 pip Bootstrap (64-bit)",
+        "DisplayVersion": "3.12.150.0",
+        "InstallDate": {
+          "value": "/Date(1699948800000)/",
+          "DateTime": "Tuesday, November 14, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "PHP Manager 2 for IIS 2.12.0.0",
+        "DisplayVersion": "2.12.0.0",
+        "InstallDate": {
+          "value": "/Date(1698908400000)/",
+          "DateTime": "Thursday, November 2, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "Python 3.12.0 Add to Path (64-bit)",
+        "DisplayVersion": "3.12.150.0",
+        "InstallDate": {
+          "value": "/Date(1699948800000)/",
+          "DateTime": "Tuesday, November 14, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664",
+        "DisplayVersion": "12.0.40664",
+        "InstallDate": {
+          "value": "/Date(1699344000000)/",
+          "DateTime": "Tuesday, November 7, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "Python 3.12.0 Executables (64-bit)",
+        "DisplayVersion": "3.12.150.0",
+        "InstallDate": {
+          "value": "/Date(1699948800000)/",
+          "DateTime": "Tuesday, November 14, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "PHP Manager for IIS",
+        "DisplayVersion": "1.5.0",
+        "InstallDate": {
+          "value": "/Date(1698822000000)/",
+          "DateTime": "Wednesday, November 1, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "Python 3.12.0 Documentation (64-bit)",
+        "DisplayVersion": "3.12.150.0",
+        "InstallDate": {
+          "value": "/Date(1699948800000)/",
+          "DateTime": "Tuesday, November 14, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "MariaDB 11.3 (x64)",
+        "DisplayVersion": "11.3.0.0",
+        "InstallDate": {
+          "value": "/Date(1698822000000)/",
+          "DateTime": "Wednesday, November 1, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "Python 3.12.0 Core Interpreter (64-bit)",
+        "DisplayVersion": "3.12.150.0",
+        "InstallDate": {
+          "value": "/Date(1699948800000)/",
+          "DateTime": "Tuesday, November 14, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "Python 3.12.0 Tcl/Tk Support (64-bit)",
+        "DisplayVersion": "3.12.150.0",
+        "InstallDate": {
+          "value": "/Date(1699948800000)/",
+          "DateTime": "Tuesday, November 14, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "Client Center for Configuration Manager",
+        "DisplayVersion": "1.0.6.1",
+        "InstallDate": {
+          "value": "/Date(1698735600000)/",
+          "DateTime": "Tuesday, October 31, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "VMware Player",
+        "DisplayVersion": "17.5.0",
+        "InstallDate": {
+          "value": "/Date(1698735600000)/",
+          "DateTime": "Tuesday, October 31, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "IIS URL Rewrite Module 2",
+        "DisplayVersion": "7.2.1993",
+        "InstallDate": {
+          "value": "/Date(1698822000000)/",
+          "DateTime": "Wednesday, November 1, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "Puppet Bolt",
+        "DisplayVersion": "3.27.4",
+        "InstallDate": {
+          "value": "/Date(1698735600000)/",
+          "DateTime": "Tuesday, October 31, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "Adobe Acrobat (64-bit)",
+        "DisplayVersion": "23.006.20320",
+        "InstallDate": {
+          "value": "/Date(1694674800000)/",
+          "DateTime": "Thursday, September 14, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "windows_exporter",
+        "DisplayVersion": "0.22.0",
+        "InstallDate": {
+          "value": "/Date(1694674800000)/",
+          "DateTime": "Thursday, September 14, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.36.32532",
+        "DisplayVersion": "14.36.32532",
+        "InstallDate": {
+          "value": "/Date(1698735600000)/",
+          "DateTime": "Tuesday, October 31, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "PuTTY release 0.79 (64-bit)",
+        "DisplayVersion": "0.79.0.0",
+        "InstallDate": {
+          "value": "/Date(1699257600000)/",
+          "DateTime": "Monday, November 6, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "Puppet Agent (64-bit)",
+        "DisplayVersion": "6.0.3",
+        "InstallDate": {
+          "value": "/Date(1700812800000)/",
+          "DateTime": "Friday, November 24, 2023 12:00:00 AM"
+        }
+      }
+    ]
+  },
+  {
+    "host": "testwindows175",
+    "domain": "",
+    "id": "GENX5.MainTestServer",
+    "ipv4": [
+      "38.107.67.175",
+      "127.0.0.1"
+    ],
+    "ipv6": [
+      "::1"
+    ],
+    "cpuarch": "AMD64",
+    "os": "Windows",
+    "mem_total": 6142,
+    "osversion": "10.0.20348",
+    "osrelease": "2022Server",
+    "windowsdomain": "WORKGROUP",
+    "num_cpus": 4,
+    "cpu_model": "Intel(R) Xeon(R) CPU E5-2643 0 @ 3.30GHz",
+    "username": "SYSTEM",
+    "Base_Machine": "H26",
+    "Windows_Updates": [
+      {
+        "Description": "Update",
+        "HotFixID": "KB5031993",
+        "InstalledOn": "@{value=11/22/2023 08:00:00; DateTime=Wednesday, November 22, 2023 12:00:00 AM}"
+      },
+      {
+        "Description": "Security Update",
+        "HotFixID": "KB5012170",
+        "InstalledOn": "@{value=11/26/2023 08:00:00; DateTime=Sunday, November 26, 2023 12:00:00 AM}"
+      },
+      {
+        "Description": "Update",
+        "HotFixID": "KB5032310",
+        "InstalledOn": "@{value=11/22/2023 08:00:00; DateTime=Wednesday, November 22, 2023 12:00:00 AM}"
+      }
+    ],
+    "Softwares": [
+      {
+        "DisplayName": "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664",
+        "DisplayVersion": "12.0.40664",
+        "InstallDate": {
+          "value": "/Date(1700985600000)/",
+          "DateTime": "Sunday, November 26, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "RealVNC Viewer 7.7.0",
+        "DisplayVersion": "7.7.0.51227",
+        "InstallDate": {
+          "value": "/Date(1699430400000)/",
+          "DateTime": "Wednesday, November 8, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664",
+        "DisplayVersion": "12.0.40664",
+        "InstallDate": {
+          "value": "/Date(1700985600000)/",
+          "DateTime": "Sunday, November 26, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "Puppet Agent (64-bit)",
+        "DisplayVersion": "6.28.0",
+        "InstallDate": {
+          "value": "/Date(1700985600000)/",
+          "DateTime": "Sunday, November 26, 2023 12:00:00 AM"
+        }
+      },
+      {
+        "DisplayName": "PuTTY release 0.79 (64-bit)",
+        "DisplayVersion": "0.79.0.0",
+        "InstallDate": {
+          "value": "/Date(1699430400000)/",
+          "DateTime": "Wednesday, November 8, 2023 12:00:00 AM"
+        }
+      }
+    ]
+  }
+]
